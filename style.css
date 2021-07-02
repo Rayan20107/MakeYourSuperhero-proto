@@ -1,0 +1,17 @@
+.Background_image
+{
+    background-image: url("avenger_bg.jpg");
+}
+
+#Mycanvas
+{
+    background-color:black;
+    border: rgb(255, 255, 255);
+    border-width: 10px;
+    border-style:ridge;
+}
+
+h3
+{
+    color: white;
+}
